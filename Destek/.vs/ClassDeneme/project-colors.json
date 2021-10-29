@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28413189-4143-4635-b2cd-a5fdf1762145": {
+      "ProjectGuid": "28413189-4143-4635-b2cd-a5fdf1762145",
+      "DisplayName": "Destek",
+      "ColorIndex": 0
+    },
+    "35af8ff5-bce2-446b-a6ee-dd2c85f91ca5": {
+      "ProjectGuid": "35af8ff5-bce2-446b-a6ee-dd2c85f91ca5",
+      "DisplayName": "Hesaplama",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

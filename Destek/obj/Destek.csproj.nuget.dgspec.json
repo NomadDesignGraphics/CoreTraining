@@ -31,7 +31,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\gokhan\\source\\repos\\egitim-core\\class_cagirma_uzaktan\\Hesaplama\\Hesaplama.csproj": {
+                "projectPath": "C:\\Users\\gokhan\\source\\repos\\egitim-core\\class_cagirma_uzaktan\\Hesaplama\\Hesaplama.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -60,6 +64,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\gokhan\\source\\repos\\egitim-core\\class_cagirma_uzaktan\\Hesaplama\\Hesaplama.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gokhan\\source\\repos\\egitim-core\\class_cagirma_uzaktan\\Hesaplama\\Hesaplama.csproj",
+        "projectName": "Hesaplama",
+        "projectPath": "C:\\Users\\gokhan\\source\\repos\\egitim-core\\class_cagirma_uzaktan\\Hesaplama\\Hesaplama.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
       }
     }
   }

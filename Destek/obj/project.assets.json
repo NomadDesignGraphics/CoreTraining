@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Hesaplama/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Hesaplama.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hesaplama.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Hesaplama/1.0.0": {
+      "type": "project",
+      "path": "../Hesaplama/Hesaplama.csproj",
+      "msbuildProject": "../Hesaplama/Hesaplama.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Hesaplama >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\gokhan\\.nuget\\packages\\": {},
@@ -38,7 +56,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\gokhan\\source\\repos\\egitim-core\\class_cagirma_uzaktan\\Hesaplama\\Hesaplama.csproj": {
+              "projectPath": "C:\\Users\\gokhan\\source\\repos\\egitim-core\\class_cagirma_uzaktan\\Hesaplama\\Hesaplama.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
