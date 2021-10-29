@@ -1,0 +1,16 @@
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\bin\Debug\net5.0\Destek.exe
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\bin\Debug\net5.0\Destek.deps.json
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\bin\Debug\net5.0\Destek.runtimeconfig.json
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\bin\Debug\net5.0\Destek.runtimeconfig.dev.json
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\bin\Debug\net5.0\Destek.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\bin\Debug\net5.0\ref\Destek.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\bin\Debug\net5.0\Destek.pdb
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\obj\Debug\net5.0\Destek.csproj.AssemblyReference.cache
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\obj\Debug\net5.0\Destek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\obj\Debug\net5.0\Destek.AssemblyInfoInputs.cache
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\obj\Debug\net5.0\Destek.AssemblyInfo.cs
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\obj\Debug\net5.0\Destek.csproj.CoreCompileInputs.cache
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\obj\Debug\net5.0\Destek.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\obj\Debug\net5.0\ref\Destek.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\obj\Debug\net5.0\Destek.pdb
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\Destek\obj\Debug\net5.0\Destek.genruntimeconfig.cache
