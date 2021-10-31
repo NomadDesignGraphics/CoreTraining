@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WIu+zJtNU7LxXezahsoU+OC/7NmQzb4pSB1tNMLqnVxotUoxVudh7n5etnW6fhsHEstpddCCXj+Sk7v3ooOzxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gokhan\\source\\repos\\KullaniciDenetimi.API\\KullaniciDenetimi.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokhan\\.nuget\\packages\\bogus\\33.1.1\\bogus.33.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
