@@ -1,0 +1,17 @@
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\bin\Debug\net5.0\AreaFinder.DataAccess.deps.json
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\bin\Debug\net5.0\AreaFinder.DataAccess.runtimeconfig.json
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\bin\Debug\net5.0\AreaFinder.DataAccess.runtimeconfig.dev.json
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\bin\Debug\net5.0\AreaFinder.DataAccess.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\bin\Debug\net5.0\ref\AreaFinder.DataAccess.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\bin\Debug\net5.0\AreaFinder.DataAccess.pdb
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\bin\Debug\net5.0\AreaHelper.Entities.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\bin\Debug\net5.0\AreaHelper.Entities.pdb
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\obj\Debug\net5.0\AreaFinder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\obj\Debug\net5.0\AreaFinder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\obj\Debug\net5.0\AreaFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\obj\Debug\net5.0\AreaFinder.DataAccess.AssemblyInfo.cs
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\obj\Debug\net5.0\AreaFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\obj\Debug\net5.0\AreaFinder.DataAccess.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\obj\Debug\net5.0\ref\AreaFinder.DataAccess.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\obj\Debug\net5.0\AreaFinder.DataAccess.pdb
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder\obj\Debug\net5.0\AreaFinder.DataAccess.genruntimeconfig.cache

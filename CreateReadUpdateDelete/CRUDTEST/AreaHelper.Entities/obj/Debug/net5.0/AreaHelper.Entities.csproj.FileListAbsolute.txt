@@ -1,0 +1,11 @@
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaHelper.Entities\bin\Debug\net5.0\AreaHelper.Entities.deps.json
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaHelper.Entities\bin\Debug\net5.0\AreaHelper.Entities.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaHelper.Entities\bin\Debug\net5.0\ref\AreaHelper.Entities.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaHelper.Entities\bin\Debug\net5.0\AreaHelper.Entities.pdb
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaHelper.Entities\obj\Debug\net5.0\AreaHelper.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaHelper.Entities\obj\Debug\net5.0\AreaHelper.Entities.AssemblyInfoInputs.cache
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaHelper.Entities\obj\Debug\net5.0\AreaHelper.Entities.AssemblyInfo.cs
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaHelper.Entities\obj\Debug\net5.0\AreaHelper.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaHelper.Entities\obj\Debug\net5.0\AreaHelper.Entities.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaHelper.Entities\obj\Debug\net5.0\ref\AreaHelper.Entities.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaHelper.Entities\obj\Debug\net5.0\AreaHelper.Entities.pdb

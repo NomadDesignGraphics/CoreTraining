@@ -1,0 +1,16 @@
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\bin\Debug\net5.0\AreaFinder.Business.deps.json
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\bin\Debug\net5.0\AreaFinder.Business.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\bin\Debug\net5.0\ref\AreaFinder.Business.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\bin\Debug\net5.0\AreaFinder.Business.pdb
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\bin\Debug\net5.0\AreaFinder.DataAccess.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\bin\Debug\net5.0\AreaHelper.Entities.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\bin\Debug\net5.0\AreaFinder.DataAccess.pdb
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\bin\Debug\net5.0\AreaHelper.Entities.pdb
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\obj\Debug\net5.0\AreaFinder.Business.csproj.AssemblyReference.cache
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\obj\Debug\net5.0\AreaFinder.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\obj\Debug\net5.0\AreaFinder.Business.AssemblyInfoInputs.cache
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\obj\Debug\net5.0\AreaFinder.Business.AssemblyInfo.cs
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\obj\Debug\net5.0\AreaFinder.Business.csproj.CoreCompileInputs.cache
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\obj\Debug\net5.0\AreaFinder.Business.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\obj\Debug\net5.0\ref\AreaFinder.Business.dll
+C:\Users\gokhan\source\repos\egitim-core\class_cagirma_uzaktan\CoreTraining\CreateReadUpdateDelete\CRUDTEST\AreaFinder.Business\obj\Debug\net5.0\AreaFinder.Business.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "38cc3cfc-b89f-47ef-a4d2-ceeb58520ae2": {
+      "ProjectGuid": "38cc3cfc-b89f-47ef-a4d2-ceeb58520ae2",
+      "DisplayName": "AreaFinder.DataAccess",
+      "ColorIndex": 0
+    },
+    "af59c449-473f-4cfe-828b-e5dc96f884a8": {
+      "ProjectGuid": "af59c449-473f-4cfe-828b-e5dc96f884a8",
+      "DisplayName": "AreaHelper.Entities",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
