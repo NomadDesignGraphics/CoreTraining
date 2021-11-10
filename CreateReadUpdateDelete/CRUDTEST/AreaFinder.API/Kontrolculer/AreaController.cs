@@ -28,7 +28,7 @@ namespace AreaFinder.API.Kontrolculer
         [HttpGet]
         public List<Area> GetAll()
         {
-            hea
+           
             return _AreaService.GetirButunArealari();
         }
 
